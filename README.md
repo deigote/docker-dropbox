@@ -7,7 +7,7 @@ This is a Dockerfile for running Dropbox inside a docker container.
 
 ### Why
 
-I needed an easy way to backup my wp-content directories. You can read more on the motivations in my [blog post about this](http://blog.deigote.com).
+I needed an easy way to backup my wp-content directories. You can read more on the motivations in my [blog post about this](http://blog.deigote.com/2015/06/28/dropbox-in-docker).
 
 ### How
 
